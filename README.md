@@ -1,4 +1,4 @@
-# TOEIC 이지 - TOEIC EASY
+# 토익Easy
 
 ## 단어
 1. 
